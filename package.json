@@ -1,5 +1,5 @@
 {
-  "name": "support-desk",
+  "name": "ticket-support-system",
   "version": "1.0.0",
   "description": "Support ticket app",
   "main": "server.js",
